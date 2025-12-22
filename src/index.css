@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+@import "tailwindcss";
+
+:root{
+    font-family: "Inter", sans-serif;
+}
+
+.borderr{
+    @apply border-b border-neutral-900 pb-4
+}
+
+.title{
+    @apply my-20 text-center text-4xl
+}
