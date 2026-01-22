@@ -1,5 +1,5 @@
 import React from 'react'
-import profileImage from '../assets/kevinRushProfile.jpg'
+import profileImage from '../assets/Abdelrhman-Hussein.jpeg'
 import { motion } from "motion/react"
 
 //handling motion
