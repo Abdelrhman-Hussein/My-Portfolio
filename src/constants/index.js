@@ -7,6 +7,7 @@ import project6 from "../assets/projects/6.png";
 import project7 from "../assets/projects/7.png";
 import project8 from "../assets/projects/8.png";
 import project9 from "../assets/projects/9.png";
+import project10 from "../assets/projects/10.png";
 
 export const PROJECTS = [
   {
@@ -15,7 +16,8 @@ export const PROJECTS = [
     description:
       "A responsive University website landing page built using pure HTML and CSS.",
     technologies: ["HTML", "CSS"],
-    url:"https://abdelrhman-hussein.github.io/Eduford/"
+    url:"https://abdelrhman-hussein.github.io/Eduford/",
+    github:"https://github.com/Abdelrhman-Hussein/Eduford"
   },
   {
     title: "Devfolio",
@@ -23,7 +25,8 @@ export const PROJECTS = [
     description:
       "A modern, responsive personal portfolio website built with HTML5, CSS3, and Bootstrap 5.",
     technologies: ["HTML", "CSS", "Bootstrap"],
-    url:"https://abdelrhman-hussein.github.io/Devfolio/"
+    url:"https://abdelrhman-hussein.github.io/Devfolio/",
+    github:"https://github.com/Abdelrhman-Hussein/Devfolio"
   },
   {
     title: "Kerri",
@@ -31,7 +34,8 @@ export const PROJECTS = [
     description:
       "Fully responsive portfolio website showcasing projects and skills. Developed using HTML, CSS, and Bootstrap framework.",
     technologies: ["HTML", "CSS", "Bootstrap"],
-    url:"https://abdelrhman-hussein.github.io/Kerri/"
+    url:"https://abdelrhman-hussein.github.io/Kerri/",
+    github:"https://github.com/Abdelrhman-Hussein/Kerri"
   },
   {
     title: "Daniels",
@@ -39,7 +43,8 @@ export const PROJECTS = [
     description:
       "Personal Portfolio – A clean and responsive website built with Bootstrap, HTML, and CSS.",
     technologies: ["HTML", "CSS", "Bootstrap"],
-    url: "https://abdelrhman-hussein.github.io/Daniels/"
+    url: "https://abdelrhman-hussein.github.io/Daniels/",
+    github:"https://github.com/Abdelrhman-Hussein/Daniels"
   },
   {
     title: "Quotes",
@@ -47,7 +52,17 @@ export const PROJECTS = [
     description:
       "A responsive 'Quote Generator' web app built with Bootstrap and Vanilla JS, featuring a dynamic UI that updates on button clicks.",
     technologies: ["HTML", "CSS", "Bootstrap", "JavaScript"],
-    url: "https://abdelrhman-hussein.github.io/Quotes/"
+    url: "https://abdelrhman-hussein.github.io/Quotes/",
+    github:"https://github.com/Abdelrhman-Hussein/Quotes"
+  },
+  {
+    title: "Calculator",
+    image: project10,
+    description:
+      "A responsive calculator application built with HTML, CSS, and JavaScript to perform basic math operations.",
+    technologies: ["HTML", "CSS", "JavaScript"],
+    url: "https://abdelrhman-hussein.github.io/Calculator/",
+    github:"https://github.com/Abdelrhman-Hussein/Calculator"
   },
   {
     title: "Bookmarker",
@@ -55,7 +70,8 @@ export const PROJECTS = [
     description:
       "A Bookmarker applications that allows users to save and manage website URLs using CRUD operations (Create, Read, Delete). Built with HTML, CSS, Bootstrap, and Vanilla JavaScript.",
     technologies: ["HTML", "CSS", "Bootstrap", "JavaScript"],
-    url: "https://abdelrhman-hussein.github.io/Bookmarker/"
+    url: "https://abdelrhman-hussein.github.io/Bookmarker/",
+    github:"https://github.com/Abdelrhman-Hussein/Bookmarker"
   },
   {
     title: "Form",
@@ -63,7 +79,8 @@ export const PROJECTS = [
     description:
       "A secure and responsive User Authentication system (Sign Up &amp; Sign In) built with Vanilla JavaScript, HTML, CSS, and Bootstrap.",
     technologies: ["HTML", "CSS", "Bootstrap", "JavaScript"],
-    url: "https://abdelrhman-hussein.github.io/Form/"
+    url: "https://abdelrhman-hussein.github.io/Form/",
+    github:"https://github.com/Abdelrhman-Hussein/Form"
   },
   {
     title: "Fasebook",
@@ -71,7 +88,8 @@ export const PROJECTS = [
     description:
       "A social media platform featuring real-time posting, commenting, and user profile management. Inspired by Facebook.",
     technologies: ["HTML", "CSS", "Tailwind", "JavaScript", "React"],
-    url: "https://fasebook-ten.vercel.app"
+    url: "https://fasebook-ten.vercel.app",
+    github:"https://github.com/Abdelrhman-Hussein/Fasebook"
   },
   {
     title: "Amazone",
@@ -79,7 +97,8 @@ export const PROJECTS = [
     description:
       "This project is a comprehensive, full-featured e-commerce front-end application inspired by Amazon. It provides a seamless shopping experience, from product discovery to a multi-method checkout process. The platform is designed with a focus on user experience, responsive design, and robust state management.",
     technologies: ["HTML", "CSS", "Tailwind", "TypeScript", "Next.Js"],
-    url: "https://amazone-peach.vercel.app"
+    url: "https://amazone-peach.vercel.app",
+    github:"https://github.com/Abdelrhman-Hussein/Amazone"
   },
 ];
 
