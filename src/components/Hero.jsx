@@ -24,7 +24,9 @@ export default function Hero() {
                                 Software Engineer <span className='text-2xl'>(Frontend Developer)</span>
                             </motion.span>
                             <motion.p variants={container(1)} initial="hidden" animate="visible" className='my-2 max-w-xl py-6 font-light tracking-tighter'>
-                                Freshly graduated Software Engineer with a deep love for Front-end development. I thrive at the intersection of design and logic. My goal is to build fast, responsive, and user-centric applications while staying ahead of the latest industry trends. Beyond just pixels, I care about the architecture and efficiency of the web.
+                                Frontend Developer specialized in React and Next.js with hands-on experience building responsive,
+                                API-driven web applications. Strong understanding of modern JavaScript, state management, and
+                                performance optimization. Passionate about clean architecture and scalable UI systems.
                             </motion.p>
                         </div>
                     </div>
